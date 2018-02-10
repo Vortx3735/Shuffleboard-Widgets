@@ -9,5 +9,11 @@
 	<Button text="Push Me" GridPane.ColumnIndex="0" GridPane.RowIndex="0" GridPane.RowSpan="2" onAction="#onButtonPress"/>
 	<Label text="Default1" fx:id="_negNum" GridPane.RowIndex="0" GridPane.ColumnIndex="1"/>
 	<Label text="Default2" fx:id="_posNum" GridPane.RowIndex="1" GridPane.ColumnIndex="1"/>
+	<ImageView>
+		<image>
+			<Image url="resources/Field2.svg" backgroundLoading=true/>
+		</image>
+	</ImageView>
+	
 </GridPane>
 

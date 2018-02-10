@@ -1,6 +1,7 @@
 package edu.vortx3735.MyPlugin;
 
 import java.util.List;
+import de.codecentric.centerdevice.javafxsvg.*;
 
 import com.google.common.collect.ImmutableList;
 
@@ -16,5 +17,10 @@ public class App extends Plugin
 	public List<ComponentType> getComponents() {
 
 	return ImmutableList.of (WidgetType.forAnnotatedWidget (MyWidget.class) );
+	}
+
+	@Override
+	public void onLoad() {
+		SvgImageLoaderFactory.install();
 	}
 }

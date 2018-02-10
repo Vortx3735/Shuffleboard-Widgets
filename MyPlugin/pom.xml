@@ -72,6 +72,11 @@
 			<version>4.0.0</version>
 			<classifier>all</classifier>
 		</dependency>
+		<dependency>
+			<groupId>de.codecentric.centerdevice</groupId>
+			<artifactId>javafxsvg</artifactId>
+			<version>1.2.1</version>
+		</dependency>
 	</dependencies>
 
 	<repositories>
