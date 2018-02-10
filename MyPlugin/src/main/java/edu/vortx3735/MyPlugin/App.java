@@ -10,7 +10,7 @@ import edu.wpi.first.shuffleboard.api.plugin.Plugin;
 import edu.wpi.first.shuffleboard.api.widget.ComponentType;
 import edu.wpi.first.shuffleboard.api.widget.WidgetType;
 
-@Description(group = "VorTX 3735", name = "MyPlugin", summary = "A test plugin", version = "1.0.0")
+@Description(group = "VorTX 3735", name = "VorTx3735 Plugins", summary = "Robot 2018 Plugins", version = "1.0.0")
 public class App extends Plugin 
 {
 	@Override
