@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1668.166px" height="3297.314px" viewBox="812.651 -812.651 1668.166 3297.314"
+	 enable-background="new 812.651 -812.651 1668.166 3297.314" xml:space="preserve">
+<g id="Floor_2_">
+	<polygon id="Floor" fill="#3D3D3D" points="964.167,2477.163 820.151,2294.791 820.151,835.815 2473.317,835.815 
+		2473.317,2297.781 2323.302,2477.163 	"/>
+	<polygon id="Floor_1_" fill="#3D3D3D" points="2333.148,-805.151 2477.163,-622.78 2477.163,836.197 823.997,836.197 
+		823.997,-625.768 974.014,-805.151 	"/>
+</g>
+<g id="Wall">
+	<polyline id="Wall_outline" fill="none" stroke="#000000" stroke-width="15" stroke-miterlimit="10" points="820.151,829.998 
+		820.151,2294.146 964.167,2477.163 2323.303,2477.163 2473.317,2297.146 2473.317,829.998 	"/>
+	<polyline id="Wall_outline_1_" fill="none" stroke="#000000" stroke-width="15" stroke-miterlimit="10" points="2473.315,842.015 
+		2473.315,-622.133 2329.302,-805.151 970.166,-805.151 820.151,-625.133 820.151,842.015 	"/>
+</g>
+<g id="Left_Side">
+	<g id="Black_Floor">
+		
+			<line id="Floor_Black" fill="none" stroke="#000000" stroke-width="7" stroke-miterlimit="10" x1="831.651" y1="1862.066" x2="2466.151" y2="1862.066"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="5" stroke-miterlimit="10" x1="1648.901" y1="1480.816" x2="1648.901" y2="1126.209"/>
+	</g>
+	<g id="Switch">
+		<polygon id="Switch_Plate_1_" fill="#5E5E5E" points="1282.401,1745.816 1465.401,1745.816 1465.401,1668.816 1465.401,1505.816 
+			1282.401,1505.816 		"/>
+		<rect id="Switch_Plate" x="1831.401" y="1505.816" fill="#5E5E5E" width="182" height="240"/>
+		<polygon fill="#5E5E5E" points="1831.401,1663.816 1831.401,1649.58 1465.401,1649.58 1465.401,1664.816 		"/>
+		<polygon fill="#5E5E5E" points="1831.901,1598.816 1831.901,1584.58 1465.901,1584.58 1465.901,1599.816 		"/>
+		
+			<rect x="1262.234" y="1487.483" fill="none" stroke="#000000" stroke-width="7" stroke-miterlimit="10" width="773.333" height="273.333"/>
+	</g>
+	<g id="White_Markings">
+		<polyline fill="none" stroke="#F2F2F2" stroke-width="13" stroke-miterlimit="10" points="820.151,1013.017 1303.199,1013.017 
+			1303.199,961.315 		"/>
+		<polyline fill="none" stroke="#F2F2F2" stroke-width="13" stroke-miterlimit="10" points="2476.718,1013.017 1993.669,1013.017 
+			1993.669,961.315 		"/>
+	</g>
+	<g id="Red_Field_Markings">
+		<polyline id="Pickup_Marking" fill="none" stroke="#FF0000" stroke-width="15" stroke-miterlimit="10" points="1349.401,2469.482 
+			1349.401,2296.816 1581.401,2296.816 1581.401,2469.482 		"/>
+		<polyline fill="none" stroke="#FF0000" stroke-width="15" stroke-miterlimit="10" points="1539.401,1769.816 1539.401,1971.816 
+			1756.401,1971.816 1756.401,1769.816 		"/>
+		
+			<line fill="none" stroke="#FF0000" stroke-width="12" stroke-miterlimit="10" x1="1314.401" y1="1480.816" x2="1314.401" y2="960.065"/>
+		
+			<line fill="none" stroke="#FF0000" stroke-width="12" stroke-miterlimit="10" x1="1982.469" y1="1480.816" x2="1982.469" y2="961.315"/>
+	</g>
+	<g id="Red_Riser">
+		<polygon fill="#B30000" points="1320.734,1153.15 1976.151,1153.815 1976.151,1147.481 1915.656,1086.815 1382.9,1086.815 
+			1320.734,1146.481 		"/>
+		<polygon fill="#800000" points="1385.401,1086.815 1385.401,881.481 1378.401,881.481 1378.401,959.065 1320.734,960.065 
+			1320.734,1146.481 		"/>
+		<polygon fill="#800000" points="1911.658,1086.851 1911.658,881.517 1918.658,881.517 1918.658,959.101 1976.324,960.101 
+			1976.151,1147.481 		"/>
+		<polygon fill="#CF0000" points="1385.401,1086.815 1911.658,1086.851 1911.658,881.517 1385.401,881.481 		"/>
+	</g>
+	<g id="Scale">
+		
+			<line id="Outline" fill="none" stroke="#000000" stroke-width="7" stroke-miterlimit="10" x1="1375.901" y1="879.815" x2="1921.401" y2="880.315"/>
+		<rect id="Truss" x="1604.901" y="835.815" fill="#5E5E5E" width="87.5" height="55.5"/>
+		<polygon id="Scale_1_" fill="#1A1A1A" points="1616.401,891.315 1616.401,922.815 1680.901,922.815 1680.901,891.315 
+			1692.401,891.315 1692.401,932.315 1604.901,932.315 1604.901,891.315 		"/>
+		<polyline id="Middle_Peice" fill="#5E5E5E" points="1604.901,867.815 1602.901,867.815 1375.901,867.815 1375.901,857.315 
+			1604.901,857.315 		"/>
+		<polyline id="Middle_Piece" fill="#5E5E5E" points="1921.401,867.815 1919.401,867.815 1692.401,867.815 1692.401,857.315 
+			1921.401,857.315 		"/>
+		<rect id="Platform_1_" x="1193.901" y="835.815" fill="#999999" width="182" height="121.5"/>
+		<rect id="Platform" x="1921.401" y="835.815" fill="#999999" width="182" height="121.5"/>
+	</g>
+</g>
+<g id="Right_Side_1_">
+	<g id="Black_Floor_1_">
+		
+			<line id="Floor_Black_1_" fill="none" stroke="#000000" stroke-width="7" stroke-miterlimit="10" x1="2465.663" y1="-190.053" x2="831.163" y2="-190.053"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="5" stroke-miterlimit="10" x1="1648.413" y1="191.197" x2="1648.413" y2="545.802"/>
+	</g>
+	<g id="Switch_1_">
+		<polygon id="Switch_Plate_3_" fill="#5E5E5E" points="2014.913,-73.803 1831.913,-73.803 1831.913,3.197 1831.913,166.197 
+			2014.913,166.197 		"/>
+		<rect id="Switch_Plate_2_" x="1283.913" y="-73.803" fill="#5E5E5E" width="182" height="240"/>
+		<polygon fill="#5E5E5E" points="1465.913,8.197 1465.913,22.431 1831.913,22.431 1831.913,7.197 		"/>
+		<polygon fill="#5E5E5E" points="1465.413,73.197 1465.413,87.431 1831.413,87.431 1831.413,72.197 		"/>
+		
+			<rect x="1261.747" y="-88.803" fill="none" stroke="#000000" stroke-width="7" stroke-miterlimit="10" width="773.332" height="273.334"/>
+	</g>
+	<g id="White_Markings_1_">
+		<polyline fill="none" stroke="#F2F2F2" stroke-width="13" stroke-miterlimit="10" points="2477.161,658.996 1994.114,658.996 
+			1994.114,710.697 		"/>
+		<polyline fill="none" stroke="#F2F2F2" stroke-width="13" stroke-miterlimit="10" points="820.598,658.996 1303.646,658.996 
+			1303.646,710.697 		"/>
+	</g>
+	<g id="Blue_Field_Markings">
+		<polyline id="Pickup_Marking_1_" fill="none" stroke="#111183" stroke-width="15" stroke-miterlimit="10" points="
+			1947.913,-797.469 1947.913,-624.803 1715.913,-624.803 1715.913,-797.469 		"/>
+		<polyline fill="none" stroke="#111183" stroke-width="15" stroke-miterlimit="10" points="1757.913,-97.803 1757.913,-299.803 
+			1540.913,-299.803 1540.913,-97.803 		"/>
+		
+			<line fill="none" stroke="#111183" stroke-width="12" stroke-miterlimit="10" x1="1982.913" y1="191.197" x2="1982.913" y2="711.947"/>
+		
+			<line fill="none" stroke="#111183" stroke-width="12" stroke-miterlimit="10" x1="1314.847" y1="191.197" x2="1314.847" y2="710.697"/>
+	</g>
+	<g id="Blue_Riser">
+		<polygon fill="#0C0B59" points="1976.579,518.863 1321.163,518.197 1321.163,524.531 1381.657,585.197 1914.413,585.197 
+			1976.579,525.531 		"/>
+		<polygon fill="#090946" points="1911.913,585.197 1911.913,790.531 1918.913,790.531 1918.913,712.947 1976.579,711.947 
+			1976.579,525.531 		"/>
+		<polygon fill="#090946" points="1385.655,585.163 1385.655,790.496 1378.655,790.496 1378.655,712.913 1320.989,711.913 
+			1321.163,524.531 		"/>
+		<polygon fill="#111183" points="1911.913,585.197 1385.655,585.163 1385.655,790.496 1911.913,790.531 		"/>
+	</g>
+	<g id="Scale_2_">
+		
+			<line id="Outline_1_" fill="none" stroke="#000000" stroke-width="7" stroke-miterlimit="10" x1="1921.413" y1="792.197" x2="1375.913" y2="791.697"/>
+		<rect id="Truss_1_" x="1604.913" y="780.697" fill="#5E5E5E" width="87.5" height="55.5"/>
+		<polygon id="Scale_3_" fill="#1A1A1A" points="1680.913,780.697 1680.913,749.197 1616.413,749.197 1616.413,780.697 
+			1604.913,780.697 1604.913,739.697 1692.413,739.697 1692.413,780.697 		"/>
+		<polyline id="Middle_Peice_1_" fill="#5E5E5E" points="1692.413,804.197 1694.413,804.197 1921.413,804.197 1921.413,814.697 
+			1692.413,814.697 		"/>
+		<polyline id="Middle_Piece_1_" fill="#5E5E5E" points="1375.913,804.197 1377.913,804.197 1604.913,804.197 1604.913,814.697 
+			1375.913,814.697 		"/>
+		<rect id="Platform_3_" x="1921.413" y="714.697" fill="#999999" width="182" height="121.5"/>
+		<rect id="Platform_2_" x="1193.913" y="714.697" fill="#999999" width="182" height="121.5"/>
+	</g>
+</g>
+</svg>

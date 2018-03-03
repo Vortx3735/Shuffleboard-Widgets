@@ -16,11 +16,7 @@ public class App extends Plugin
 	@Override
 	public List<ComponentType> getComponents() {
 
-	return ImmutableList.of (WidgetType.forAnnotatedWidget (MyWidget.class) );
+	return ImmutableList.of (WidgetType.forAnnotatedWidget (MyMapBoundWidget.class) );
 	}
 
-	@Override
-	public void onLoad() {
-		SvgImageLoaderFactory.install();
-	}
 }
